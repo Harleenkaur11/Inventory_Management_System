@@ -1,4 +1,5 @@
 # Inventory_Management_System
+## Military Canteen Store Department Management System
 
 
 STEPS FOR USING DEVELOPED MODEL:
